@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # 设置各变量
-UUID='dbd4ca8c-ef7e-497d-8bc9-93259dfcbebc'
+UUID='0fd2cf29-d308-4f36-90ee-e495d1965856'
 VMESS_WSPATH='/vmess'
 VLESS_WSPATH='/vless'
 TROJAN_WSPATH='/trojan'
